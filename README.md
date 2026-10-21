@@ -14,3 +14,6 @@ numpy
 sympy
 
 scipy.optimize
+
+## Acknowledgments
+* Starter code and debugging assistance for Python optimization supported by AI tools.
